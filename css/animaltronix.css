@@ -59,11 +59,11 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
 */
 
 .notyfy-me {
-    background-color: #333;
+/*    background-color: #FFFFFF;*/
 }
 
 .notyfy-decr {
-  color: #999;
+/*  color: #999;*/
   font-size: 1.00rem;
   font-weight: 500;
   font-family: ethnocentric;
@@ -80,7 +80,7 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
 
 .btn, .btn input[type="submit"], .btn button {
   background: transparent;
-  color: #999;
+/*  color: #999;*/
   font-family: ethnocentric;
   border-left-style: dotted;
   border-right-style: dotted;

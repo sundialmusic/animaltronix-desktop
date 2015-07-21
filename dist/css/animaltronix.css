@@ -46,7 +46,7 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
 /*    color: #333;*/
 }
 .required email {
-/*    color: #666;*/
+    color: #666;
 }
 
 /*
@@ -59,7 +59,7 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
 */
 
 .notyfy-me {
-/*    background-color: #333;*/
+/*    background-color: #FFFFFF;*/
 }
 
 .notyfy-decr {
