@@ -16,7 +16,7 @@ img.logo {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #999;
+/*  color: #999;*/
   font-family: ethnocentric; /*Lato, helvetica, arial; */
   margin-top: 20px;
 }
@@ -25,7 +25,7 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
   background: transparent; /*#000;*/
   border-radius: 0;
   border: 1px solid #0ff;
-  color: #999;
+/*  color: #999;*/
   font-size: 1.025rem;
   font-family: ethnocentric;
 /*  font-family: Lato, helvetica, arial;*/
@@ -43,7 +43,7 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
 
 #mc_embed_signup form {
     font-family: ethnocentric;
-    color: #333;
+/*    color: #333;*/
 }
 .required email {
     color: #666;
@@ -59,7 +59,7 @@ input.input, textarea, input[type=password], input[type=text], input[type=email]
 */
 
 .notyfy-me {
-/*    background-color: #333;*/
+    background-color: #333;
 }
 
 .notyfy-decr {
@@ -111,7 +111,7 @@ body {
 .copyright {
     font-family: ethnocentric;
     font-size: 0.45rem;
-    color: #999;
+/*    color: #FFFFFF;*/
 }
 
 @media (max-width: 415px) {
